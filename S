@@ -1,0 +1,1 @@
+{"android_version_code":"1.0.0","apk_url":"","mac_registered":true,"urls":[{"id":"demo","url":"http://185.215.165.10:25461/get.php?username=dddu5wFn&password=pyjZuwm4&type=m3u_plus&output=ts","name":"Demo Playlist"}],"themes":[],"trial_days":7,"device_key":"453978","is_trial":0,"expire_date":"2022-09-08","languages":[],"has_own_playlist":false,"calc_time":0.076}
